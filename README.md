@@ -13,3 +13,6 @@ The aim of this project is to demonstrate frontend development skills by mimicki
 - HTML
 - CSS
 - [FontAwesome](https://fontawesome.com/) (for icons)
+
+Live Site URL:
+https://srinidhi2006.github.io/amazon-clone/
